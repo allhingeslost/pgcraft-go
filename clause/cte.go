@@ -2,7 +2,7 @@ package clause
 
 import (
 	"fmt"
-	"github.com/arkamfahry/pgcraft-go"
+	"github.com/pixeldump/pgcraft-go"
 	"io"
 )
 

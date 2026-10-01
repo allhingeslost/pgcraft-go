@@ -1,8 +1,8 @@
 package query
 
 import (
-	"github.com/arkamfahry/pgcraft-go"
-	"github.com/arkamfahry/pgcraft-go/clause"
+	"github.com/pixeldump/pgcraft-go"
+	"github.com/pixeldump/pgcraft-go/clause"
 	"io"
 )
 

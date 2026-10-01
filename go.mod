@@ -1,4 +1,4 @@
-module github.com/arkamfahry/pgcraft-go
+module github.com/pixeldump/pgcraft-go
 
 go 1.23.1
 
