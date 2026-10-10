@@ -3,8 +3,8 @@ package query
 import (
 	"strings"
 
-	"github.com/pixeldump/pgcraft-go"
-	"github.com/pixeldump/pgcraft-go/expr"
+	"github.com/allhingeslost/pgcraft-go"
+	"github.com/allhingeslost/pgcraft-go/expr"
 )
 
 var (

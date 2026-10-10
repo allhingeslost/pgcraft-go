@@ -1,7 +1,7 @@
 package clause
 
 import (
-	"github.com/pixeldump/pgcraft-go"
+	"github.com/allhingeslost/pgcraft-go"
 	"io"
 )
 

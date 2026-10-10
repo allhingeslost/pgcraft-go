@@ -2,7 +2,7 @@ package expr
 
 import (
 	"fmt"
-	"github.com/pixeldump/pgcraft-go"
+	"github.com/allhingeslost/pgcraft-go"
 	"io"
 )
 

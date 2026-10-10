@@ -1,11 +1,11 @@
 package um
 
 import (
-	"github.com/pixeldump/pgcraft-go"
-	"github.com/pixeldump/pgcraft-go/clause"
-	"github.com/pixeldump/pgcraft-go/internal"
-	"github.com/pixeldump/pgcraft-go/mods"
-	"github.com/pixeldump/pgcraft-go/query"
+	"github.com/allhingeslost/pgcraft-go"
+	"github.com/allhingeslost/pgcraft-go/clause"
+	"github.com/allhingeslost/pgcraft-go/internal"
+	"github.com/allhingeslost/pgcraft-go/mods"
+	"github.com/allhingeslost/pgcraft-go/query"
 )
 
 func With(name string, columns ...string) query.CTEChain[*query.Update] {
